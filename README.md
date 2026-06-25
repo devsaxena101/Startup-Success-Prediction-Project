@@ -59,7 +59,7 @@ This project combines **data analysis, SQL, Power BI dashboards, and machine lea
 
 6. **Model Evaluation**
 
-   * Accuracy Score: ~50%
+   * Accuracy Score: ~80%
    * Used metrics like Precision, Recall, F1-score
 
 ---
